@@ -1,0 +1,4 @@
+INSERT_INTO <file_name> <name>:<surname>:<age>
+SELECT <file_name> <name>
+DELETE <file_name> <name>
+UPDATE <file_name> <name> <replacing_name>
